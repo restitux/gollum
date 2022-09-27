@@ -1212,6 +1212,7 @@ Gem::Specification.new do |s|
     lib/gollum/templates/pagination.mustache
     lib/gollum/templates/search.mustache
     lib/gollum/templates/searchbar.mustache
+    lib/gollum/templates/user.mustache
     lib/gollum/templates/wiki_content.mustache
     lib/gollum/uri_encode_component.rb
     lib/gollum/views/commit.rb
